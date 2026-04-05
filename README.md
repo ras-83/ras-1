@@ -1,13 +1,19 @@
 # Hotel Menu System
 
-This is a Python program that displays a hotel menu and allows users to select items.
+A simple Python program that simulates a hotel menu and allows users to order items.
 
 ## Features
-- Show menu items
-- Take user orders
+- Display menu items
+- Take user input
 - Calculate total bill
+
+## Technologies Used
+- Python
 
 ## How to Run
 1. Install Python
-2. Run the file:
+2. Run:
    python hotelmenu.py
+
+## Author
+Rashi
